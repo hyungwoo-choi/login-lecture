@@ -27,6 +27,9 @@ class UserStorage {
             return newUser;
         }, {});
         return userInfo;
+
+    
+        
     }
 }
 
